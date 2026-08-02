@@ -1,151 +1,55 @@
 # Entrega Final
 
-Este documento resume toda la información necesaria para la evaluación del proyecto.
+## Enlace al MVP *(Opcional)*
+
+Si el proyecto se encuentra desplegado, coloque aquí el enlace de acceso.
+
+**URL:**
 
 ---
 
-# Información General
-
-## Nombre del Proyecto
-
--
-
-## Equipo
-
--
-
----
-
-# Enlace al MVP
-
-Ingrese el enlace de la aplicación desplegada.
-
-Ejemplo:
-
-https://xxxxxxxx.vercel.app
-
-Si aún no se encuentra desplegada, indicar:
-
-> Pendiente de despliegue.
-
----
-
-# Instrucciones de Acceso
-
-Explique cómo ingresar al sistema.
-
-Ejemplo:
-
-1. Abrir el enlace del MVP.
-2. Iniciar sesión (si aplica).
-3. Cargar un archivo climatológico.
-4. Ejecutar el análisis.
-5. Visualizar los resultados.
-
----
-
-# Credenciales de Prueba
-
-Si el sistema requiere autenticación, proporcionar un usuario de prueba.
-
-Usuario:
-
-```
-```
-
-Contraseña:
-
-```
-```
-
-Si no aplica, indicar:
-
-> No requiere autenticación.
-
----
-
-# Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 Marque únicamente las funcionalidades desarrolladas.
 
-- [ ] Carga de datos climatológicos.
-- [ ] Visualización de información.
-- [ ] Análisis mediante Inteligencia Artificial.
-- [ ] Generación de recomendaciones.
-- [ ] Dashboard interactivo.
-- [ ] Exportación de resultados.
-- [ ] Gestión de usuarios.
-- [ ] Otra:
+- [ ] Funcionalidad 1
+- [ ] Funcionalidad 2
+- [ ] Funcionalidad 3
+- [ ] Funcionalidad 4
+- [ ] Funcionalidad adicional: ______________________
 
 ---
 
-# Herramientas de Inteligencia Artificial Utilizadas
+## Herramientas de Inteligencia Artificial Utilizadas
 
-Especifique todas las herramientas empleadas.
+Indique las herramientas o modelos de IA empleados durante el desarrollo del proyecto.
 
-Ejemplo:
-
-- OpenAI GPT
-- Google Gemini
-- Hugging Face
-- TensorFlow
-- Scikit-Learn
-- LangChain
-- Ollama
-
-Describa brevemente cómo fueron utilizadas dentro del proyecto.
+| Herramienta | Uso dentro del proyecto |
+|-------------|-------------------------|
+| | |
+| | |
+| | |
 
 ---
 
-# Recursos Externos
+## Recursos Externos
 
-Indique todas las herramientas, APIs o servicios utilizados.
+Liste las APIs, servicios, bibliotecas o plataformas externas utilizadas.
 
-Ejemplo:
-
-- OpenWeather API
-- Google Maps
-- Vercel
-- Render
-- Supabase
-- Firebase
+| Recurso | Descripción |
+|----------|-------------|
+| | |
+| | |
+| | |
 
 ---
 
-# Presentación
+## Commit Final para Evaluación
 
-Enlace a la presentación final.
+Indique el **SHA** del commit que será considerado para la evaluación.
 
-Ejemplo:
-
-https://......
-
----
-
-# Repositorio
-
-Enlace al repositorio oficial.
-
-Ejemplo:
-
-https://github.com/INNOVA-HACK-2026/Equipo-01
-
----
-
-# Commit Final para Evaluación
-
-Indique el hash (SHA) del commit que debe ser considerado para la evaluación.
-
-Ejemplo:
+**Commit:**
 
 ```
-a3f4b52c9d1e9b6a41e...
+Pegar aquí el SHA del commit final.
 ```
-
-También puede indicarse la fecha y hora del último commit.
-
----
-
-# Observaciones Finales
-
-Espacio para comentarios adicionales que el equipo considere importantes para el jurado.
