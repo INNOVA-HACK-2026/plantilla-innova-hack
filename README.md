@@ -1,166 +1,60 @@
 # Nombre del Proyecto
 
-> Escriba el nombre de la aplicación o plataforma desarrollada.
+> Escriba el nombre de la solución desarrollada.
 
 ---
 
-# Información General
+# Equipo
 
-## Nombre del Equipo
-
--
-
-## Integrantes
-
-| Nombre Completo | Rol | GitHub |
-|-----------------|-----|--------|
-| | | |
-| | | |
-| | | |
-| | | |
+**Nombre del equipo:**
 
 ---
 
-# Problema Identificado
+# Integrantes
 
-Describa claramente el problema que busca resolver el proyecto.
+| Nombre Completo | Rol |
+|-----------------|-----|
+| | |
+| | |
+| | |
+| | |
 
-Debe responder preguntas como:
-
-- ¿Qué problemática existe?
-- ¿Quiénes son los afectados?
-- ¿Por qué es importante resolverla?
+> El equipo debe estar conformado por **3 o 4 integrantes**.
 
 ---
 
 # Descripción de la Solución
 
-Explique cómo funciona la solución propuesta.
+Explique brevemente:
 
-Describa:
-
-- Flujo general del sistema.
-- Funcionalidades principales.
-- Cómo interviene la Inteligencia Artificial.
-- Beneficios que aporta la solución.
-
----
-
-# Usuario Objetivo
-
-Indique quién utilizará la aplicación.
-
-Ejemplo:
-
-- Agricultores.
-- Comunidades altoandinas.
-- Investigadores.
-- Instituciones públicas.
-- Gobiernos locales.
+- ¿Qué problema busca resolver?
+- ¿Cómo funciona la solución?
+- ¿Qué valor aporta al usuario?
 
 ---
 
 # Tecnologías Utilizadas
 
-## Frontend
-
--
-
-## Backend
-
--
-
-## Inteligencia Artificial
-
--
-
-## Base de Datos
-
--
-
-## APIs
-
--
-
-## Otras herramientas
-
--
+| Tecnología | Descripción |
+|------------|-------------|
+| | |
+| | |
+| | |
+| | |
 
 ---
 
-# Fuentes de Datos
+# Fuentes de Datos *(Opcional)*
 
-Indique el origen de los datos utilizados.
+Indique las fuentes de datos utilizadas durante el desarrollo del proyecto.
 
-Ejemplo:
-
-- SENAMHI
-- Datos abiertos
-- APIs meteorológicas
-- Dataset propio
-
-Especifique además:
-
-- Nombre del conjunto de datos.
-- Formato (CSV, JSON, Excel, etc.).
-- Fecha de obtención.
-
----
-
-# Instalación
-
-## Requisitos
-
--
-
--
-
--
-
-## Pasos de instalación
-
-1.
-2.
-3.
-4.
-
----
-
-# Ejecución
-
-Explique cómo ejecutar el proyecto.
-
-Ejemplo:
-
-Frontend
-
-```bash
-npm install
-npm run dev
-```
-
-Backend
-
-```bash
-pip install -r requirements.txt
-python app.py
-```
-
----
-
-# Limitaciones Conocidas
-
-Indique las limitaciones actuales del proyecto.
-
-Ejemplo:
-
-- Solo procesa archivos CSV.
-- Requiere conexión a Internet.
-- Compatible únicamente con determinados navegadores.
-- El modelo de IA presenta restricciones para ciertos tipos de consultas.
+| Fuente | Descripción |
+|---------|-------------|
+| | |
+| | |
 
 ---
 
 # Licencia
 
-Este proyecto utiliza la licencia MIT.
+Este proyecto utiliza la licencia **MIT**.
